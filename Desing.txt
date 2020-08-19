@@ -1,0 +1,4 @@
+Design do produto:
+Visando uma maior estabilidade e performance será usado no portal de dúvidas, reclamações e elogios (site) as linguagens PHP utilizada principalmente no back end de sites, na integração entre as informações de uma página da web e um banco de dados MySQL. JavaScript utilizada principalmente no front end, para criar interatividade em aplicações da web.
+Já no Aplicativo mobile utilizado para cadastro, contratação de serviços, orçamentos, informações, pagamentos e avaliações tanto para os prestadores de serviço quanto aos contratantes de serviços. Todas as aplicações serão em linguagem Java para Android e Swift para IOS.
+

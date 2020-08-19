@@ -1,0 +1,11 @@
+Carro voador que transporta pessoas com o limite de valor em 10 dólares por viagem 
+Requisitos necessários para aplicação do projeto:
+* Produto mais diferenciado, inovador e tecnológico no mercado;
+* Ter bons veículos voadores;
+* Um bom custo benéfico;
+* Licença para a venda de serviços;
+* Público alvo;
+* Marketing;
+* Meios de oferecer o serviço (site, app );
+* Proporcionar praticidade, conforto, segurança e uma experiencia única ao cliente final;
+

@@ -1,0 +1,3 @@
+Os Testes iniciais serão feitos em partes, no site faremos primeiro o back end com todas as informações necessárias, em seguida vamos implantar os front end.
+O aplicativo seguirá a mesma logica faremos em partes e em seguida faremos a confirmações se seguimos todos os requisitos solicitados pelo cliente. 
+
